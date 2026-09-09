@@ -82,6 +82,17 @@ The project includes:
 - Robust standard errors
 - Hypothesis testing
 - Robustness analysis using country and year fixed effects
+- ## 📌 Regression Results
+
+The regression model explains approximately 48.8% of the variation in FDI net inflows in the sample (R² = 0.488).
+
+Key findings:
+
+- GDP growth: The coefficient is positive (0.0136), but statistically insignificant (p = 0.709).
+- Inflation: The coefficient is negative (-0.0180) and statistically significant (p = 0.002), supporting the hypothesis that higher inflation is associated with lower FDI inflows.
+- Exchange-rate change: The coefficient is positive (0.0063) and statistically significant (p < 0.001).
+
+Overall, the results provide evidence of a significant negative association between inflation and FDI, while GDP growth does not show a statistically significant relationship with FDI in this sample.
 
 ---
 
