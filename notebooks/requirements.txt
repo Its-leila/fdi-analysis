@@ -1,6 +1,7 @@
 pandas
-wbdata
-statsmodels
+numpy
 matplotlib
 seaborn
+statsmodels
+requests
 jupyter
