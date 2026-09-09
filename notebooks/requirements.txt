@@ -1,0 +1,6 @@
+pandas
+wbdata
+statsmodels
+matplotlib
+seaborn
+jupyter
